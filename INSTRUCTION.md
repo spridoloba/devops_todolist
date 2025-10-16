@@ -1,6 +1,6 @@
 ToDo App - Docker 
 
-Repo: spridoloba/todoapp:1.0.0
+Repo: https://hub.docker.com/repository/docker/spridoloba/todoapp/
 
 Build, Tag, and Push Steps:
 docker build --build-arg PYTHON_VERSION=3.10 -t todoapp:1.0.0 .
